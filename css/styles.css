@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Akshar', sans-serif;
+    background-color: #a8a8a8;
+}
+
+.seccion {
+    margin: auto auto;
+}
+
+.titulo {
+    margin: 50px auto;
+}
+
+#inputMessage {
+    height: 100px;
+}
+
+.content {
+    background-color: #fff;
+}
