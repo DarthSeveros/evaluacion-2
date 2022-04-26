@@ -79,14 +79,36 @@ body {
     padding-bottom: 50px;
 }
 
-.marcas {
+.marca {
     opacity: 0.5;
 }
 
-.marcas:hover {
+.marca:hover {
     opacity: 1;
     transition: 400ms;
+    margin: auto;
 }
+
+.container-marcas {
+    margin: 50px auto;
+}
+
+.social-media-link {
+    color: #26b38d;
+    text-decoration: none;
+}
+
+.social-media-link:hover {
+    text-decoration: underline;
+    transition: 300ms;
+    color: #fff;
+}
+
+#aboutus-image {
+    width: 80%;
+    display: inline-block;
+}
+
 
 @media screen and (max-width: 950px){
     .mobile-row {
