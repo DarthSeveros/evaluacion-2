@@ -105,10 +105,17 @@ body {
 }
 
 #aboutus-image {
-    width: 80%;
-    display: inline-block;
+    width: 110%;
 }
 
+#aboutus-text {
+    font-size: 25px;
+    width: 90%;
+}
+
+.demo-video {
+    width: 100%;
+}
 
 @media screen and (max-width: 950px){
     .mobile-row {
